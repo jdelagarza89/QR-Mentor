@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QR-Mentor/static/css/main.5e9f59ad.css",
+    "main.js": "/QR-Mentor/static/js/main.5b985a2c.js",
+    "static/js/787.47e3f016.chunk.js": "/QR-Mentor/static/js/787.47e3f016.chunk.js",
+    "index.html": "/QR-Mentor/index.html",
+    "main.5e9f59ad.css.map": "/QR-Mentor/static/css/main.5e9f59ad.css.map",
+    "main.5b985a2c.js.map": "/QR-Mentor/static/js/main.5b985a2c.js.map",
+    "787.47e3f016.chunk.js.map": "/QR-Mentor/static/js/787.47e3f016.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e9f59ad.css",
+    "static/js/main.5b985a2c.js"
+  ]
+}
