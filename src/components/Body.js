@@ -1,5 +1,5 @@
-import React from "react";
-
+import React from "react"
+import code from '../images/code.png';
 
 
 
@@ -7,11 +7,10 @@ function Body() {
     return(
        
             <div style={myStyle}>
-                   
-                      <img src = "/images/code.png" alt="" style={{width : "90%", height: "auto", marginTop :"15px", borderRadius:"20px" }}/>
-
                   
-          
+              <img src = {code} alt="" style={{width : "90%", height: "auto", marginTop :"15px", borderRadius:"20px" }}/>
+
+            
               <div style={{margin:"30px"}}>
 
                 <p style={{fontWeight : "bold"}}>Improve your front-end skills by building projects</p>
